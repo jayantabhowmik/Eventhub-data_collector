@@ -1,0 +1,7 @@
+Install the Azure Event Hub SDK using the command below:
+
+pip install azure-eventhub
+
+verify the installation as below:
+
+pip show azure-eventhub
